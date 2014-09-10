@@ -1,0 +1,1 @@
+Since the Munin exchange is not migrated to Git , These plugins are here - https://github.com/renard/munin-exchange-plugins/tree/master/munin-exchange
